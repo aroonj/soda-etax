@@ -3,6 +3,6 @@
         <jxb:bindings>
             <jxb:globalBindings typesafeEnumMaxMembers="10000" typesafeEnumMemberName="generateName"  />
         </jxb:bindings>
-		<jxb:bindings schemaLocation="file:/E:/test/XMLSchemaV2/ETDA/data/standard/Invoice_CrossIndustryInvoice_2p0.xsd" />
+		<jxb:bindings schemaLocation="https://schemas.teda.th/teda/teda-objects/common/invoice/-/raw/master/ETDA/data/standard/Invoice_CrossIndustryInvoice_2p0.xsd" />
       
 </jxb:bindings>
